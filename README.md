@@ -62,7 +62,7 @@ Below is a table containing the project group members, their contact info, and t
 |Ayrton Foster|ayrtonfoster@gmail.com|Lane Following CV + GPS integration|
 | Eric Leask        | eric.f.leask@gmail.com                       | GPS Guidance + Unity Virtual Environment         |
 | Francesco Marrato | unkindthrower@gmail.com or 15fram@queensu.ca | Stereo CV + YOLO DNN + Unity Virtual Environment |
-| Patrick Watson    |                                              | Lidar Object Detection + Path Planning           |
+| Patrick Watson    | pat.robert.watson@gmail.com                  | Lidar Object Detection + Path Planning           |
 
 
 
